@@ -39,7 +39,7 @@ shimbel <- data.frame(id = COM44.df$id,
 
 
 
-png("img/shimbEuclid.png", width = 474, height = 339)
+png("img/shimbEuclidi.png", width = 474, height = 339)
 par(mar = c(0,0,1.1,0))
 # plot vide pour cadrer la carte
 plot(COM44.spdf, col = NA, border = NA, bg = "#A6CAE0")
